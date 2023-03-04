@@ -15,6 +15,4 @@ Go to directory with code
 g++ -std=c++14 banking.cc -o bank
 
 ./bank
-
-
 ```
